@@ -1,0 +1,13 @@
+name: uwufy
+version: '${version}'
+
+main: dev.remy.uwufy.Uwufy
+api-version: '26.2'
+load: STARTUP
+
+authors: [ RemyEliot ]
+
+commands:
+  uwutoggle:
+    description: tuwny ony ow off :3
+    usage: /uwutoggle
